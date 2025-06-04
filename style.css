@@ -1,0 +1,43 @@
+ .parent p{
+            font-family: cursive;
+            letter-spacing: 50px;
+            text-shadow: 34cm;
+            text-transform: capitalize;
+            text-overflow: clip;
+            text-decoration: double;
+            text-indent: 44cm;
+        }
+        p:hover{
+            color:yellowgreen;
+        }
+        .border{
+            border: 2px solid palevioletred;
+            border-radius: 4px;
+            padding: 5px;
+        }
+        .margin 
+        {
+            border: 4px solid  orange;
+            margin: 50px;
+            padding: 10px 5px 10px 5px;
+        }
+        .relative
+        {
+            position: inherit;
+            top: 40px;
+            left: 30px;
+        }
+        .position 
+        {
+            border: 3px solid purple;
+            height: 50vh;
+        }
+        .page 
+        {
+            height:100vh;
+        }
+        .fixed
+        {
+            position: fixed;
+            left: 160px;
+        }
